@@ -1,0 +1,89 @@
+/* Ejemplo 1 */
+
+body{
+    background-image: url(https://i.pinimg.com/originals/f6/de/ab/f6deab221a6537605dbdd96edff034db.jpg);
+    background-repeat: no-repeat;
+
+}
+#b1{
+    font-size:20px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding:20px;
+    margin: 0px 800px;
+    border-radius: 10px;
+}
+
+#b1:hover{
+    background-color:white;
+    color:black ;
+    border: 4px solid rgb(200, 241, 234);
+    border-radius: 10px;
+}
+#potatoes{
+    text-decoration:none ;
+    color:orange;
+}
+
+/* Ejemplo 2 */
+#b2{
+    font-size:30px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    background-color:white;
+    padding:20px;
+    margin: 0px 750px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+
+#b2:hover{
+    background-color: black;
+    color: white ;
+    border: 4px solid rgb(97, 93, 93);
+    border-radius: 10px;
+}
+
+
+/* Ejemplo 3 */
+#b3{
+    font-size:35px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    background-color:#F0F0F0;
+    padding:20px;
+    margin: 0px 700px;
+    border-radius: 10px;
+}
+
+#b3:hover{
+    background-color: black;
+    color:#F0F0F0 ;
+    border: 1px solid rgb(27, 144, 125);
+    border-radius: 10px;
+}
+
+
+/* Ejemplo 4 */ 
+#b4{
+    font-size:50px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background-color: #2c74d3;
+    padding:20px;
+    margin: 0px 650px;
+    border-radius: 10px;
+}
+
+
+#b4:hover{
+    background-color:white;
+    color: #2c74d3 ;
+    border: 1px solid rgb(27, 144, 125);
+    border-radius: 10px;
+}
